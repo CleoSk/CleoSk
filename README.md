@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @CleoSk
-- 👀 I’m interested in Frontend, VueJs and games
-- 🌱 I’m currently learning Vue, Nuxt
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Frontend and Backend
+- 🌱 I’m currently learning GoLang and C++
