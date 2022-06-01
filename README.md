@@ -9,21 +9,14 @@ Skills: VUE JS / NODE JS / JS / HTML / CSS / PYTHON / GOLANG
 - 🤔 I’m looking for help with rust lang 
 - ⚡ Fun fact: If a resident of Hawaii puts flowers behind her right ear, she thereby informs that she is available. The more flowers, the stronger her desire. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CleoSk)](https://github.com/ryo-ma/github-profile-trophy)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CleoSk)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleoSk)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CleoSk&show_icons=true)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/CleoSk)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CleoSk)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/CleoSk)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CleoSk)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/CleoSk&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/CleoSk)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/CleoSk)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/CleoSk)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/CleoSk)  
+![Profile views](https://gpvc.arturio.dev/CleoSk)  
