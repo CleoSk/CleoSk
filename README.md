@@ -14,8 +14,4 @@ Skills: VUE JS / NODE JS / JS / HTML / CSS / PYTHON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CleoSk&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CleoSk)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=CleoSk)  
-
 ![Profile views](https://gpvc.arturio.dev/CleoSk)  
