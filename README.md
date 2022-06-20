@@ -1,11 +1,10 @@
 ### Hi there 👋, my name is CleoSk
 #### I am frontend and backend developer
 
-Skills: VUE JS / NODE JS / JS / HTML / CSS / PYTHON / GOLANG
+Skills: VUE JS / NODE JS / JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on nothing 
-- 🌱 I’m currently learning golang 
-- 👯 I’m looking to collaborate on windows or ethereum 
+- 🌱 I’m currently learning React.js
 - 🤔 I’m looking for help with rust lang 
 - ⚡ Fun fact: If a resident of Hawaii puts flowers behind her right ear, she thereby informs that she is available. The more flowers, the stronger her desire. 
 
